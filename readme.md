@@ -4,4 +4,4 @@ Repo containing an old JS project trying to recreate Angry Birds game using Box2
 
 ## Live Demo
 
-[Angry Birds Box2D](https://drozdd80.github.io/angry-birds-box2d.github.io/)
+[Angry Birds Box2D](https://drozdd80.github.io/angry-birds-box2d/)
